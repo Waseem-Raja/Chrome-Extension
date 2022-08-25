@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=opensans:500);
+body {
+  background: #0b0b0b;
+ 
+}
+._404 {
+  font-size: 25px;
+  position: relative;
+  display: block;
+  z-index: 2;
+  height: 250px;
+  color: white;
+  margin-top: 22%;
+  margin-left: 24%;
+
+}
+#_1 {
+  font-size: 25px;
+  height: 309px;
+  margin-top: 13px;
+  }
+#_2 {
+  font-size: 15px;
+  margin-top: -26%;
+}
+#btn{
+    color: #f5ffff;
+    background-color: #0f668a;
+    border-radius: 17px;
+    height: 41px;
+    width: 122px;
+    font-size: 20px;
+    margin-top: 24px;
+}
+  
+#btn:hover{
+  background-color: aquamarine;
+}
+
+
+
